@@ -30,6 +30,7 @@ Recomendamos utilizar funções curtas e classes coesas, minimizando o acomplame
 
 ### Dados
 API: https://coinmarketcap.com/api/
+
 Exemplo de chamada a API: https://api.coinmarketcap.com/v1/ticker/
  
 ### Stack
