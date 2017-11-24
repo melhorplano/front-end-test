@@ -13,7 +13,6 @@ Requisitos para a vaga, bons conhecimentos em:
 - CSS
 - Javascript
 - React
-- Redux
 - APIs REST
 
 ### O Desafio
@@ -34,10 +33,11 @@ API: https://coinmarketcap.com/api/
 Exemplo de chamada a API: https://api.coinmarketcap.com/v1/ticker/
  
 ### Stack
-Para o desafio você deve utilizar. Pode ser desenvolvimento em Javascript ou em Typescript:
+Para o desafio você deve utilizar. Pode ser desenvolvido em Javascript ou em Typescript:
 
 - React.JS
-- Redux
+- **DIFERENCIAL**: Redux
+- **DIFERENCIAL**: ES7
 
 ### Entrega
 Link da resolução do desafio no github
